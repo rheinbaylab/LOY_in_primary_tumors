@@ -1,0 +1,16 @@
+x_chrlength <- NULL
+cnlr <- NULL
+hg38_Y <- NULL
+lcn <- NULL
+maploc <- NULL
+maploc_x <- NULL
+minus_mafR <- NULL
+new <- NULL
+plus_mafR <- NULL
+tcn <- NULL
+valor <- NULL
+xmax <- NULL
+xmin <- NULL
+ymax <- NULL
+ymin <- NULL
+rcmat.new <- NULL
